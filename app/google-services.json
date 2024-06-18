@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "319191928081",
+    "project_id": "android-spring-2024-brock",
+    "storage_bucket": "android-spring-2024-brock.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319191928081:android:90ee9f2928e82328b390b0",
+        "android_client_info": {
+          "package_name": "edu.weber.cs.w01353438.duckduckjeep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDm0Zf-RaYPNWTKOaun7T_DSK5wnXSGPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319191928081:android:1d172d28278f79b4b390b0",
+        "android_client_info": {
+          "package_name": "edu.weber.cs.w01353438.firebasedemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDm0Zf-RaYPNWTKOaun7T_DSK5wnXSGPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

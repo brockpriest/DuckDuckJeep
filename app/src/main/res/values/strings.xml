@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">DuckDuckJeep</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
+    <string name="your_ducks">Your Ducks</string>
+    <string name="user_profile">User Profile</string>
+    <string name="username">Username</string>
+    <string name="logout">Logout</string>
+    <string name="delete">Delete</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="duck_spotted">Duck Spotted:</string>
+    <string name="last_location">Last Location</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="click_here_to_register">Click Here to Register</string>
+    <string name="sign_in">Sign In</string>
+    <string name="duck_id">Duck Id</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="previous_locations">Previous Locations</string>
+    <string name="duck_information">Duck Information</string>
+    <string name="duck_name">Duck Name:</string>
+    <string name="duck_story">Duck Story:</string>
+    <string name="duckname">duckName</string>
+    <string name="duckstory">duckStory</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDDm0Zf-RaYPNWTKOaun7T_DSK5wnXSGPw</string>
+    <string name="create_duck">Create Duck</string>
+    <string name="test_check_duck">Test Check Duck</string>
+    <string name="login_frag">Login Frag</string>
+    <string name="no_ducks_found">No Ducks Found</string>
+    <string name="created">Created:</string>
+    <string name="last_updated">Last Updated</string>
+    <string name="city">City</string>
+    <string name="region">Region</string>
+    <string name="coordinates">Coordinates</string>
+</resources>

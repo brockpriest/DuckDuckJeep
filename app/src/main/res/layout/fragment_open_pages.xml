@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".OpenPages">
+
+    <Button
+        android:id="@+id/TESTCreateDuck"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/create_duck" />
+
+    <Button
+        android:id="@+id/TESTCheckDuck"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/test_check_duck" />
+
+    <Button
+        android:id="@+id/YourDucksFragTST"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="invisible" />
+
+    <Button
+        android:id="@+id/loginFragTST"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/login_frag"
+        android:visibility="invisible" />
+</LinearLayout>

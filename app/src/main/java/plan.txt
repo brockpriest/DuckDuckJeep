@@ -1,0 +1,6 @@
+Here is a place to describe steps that will be taking place.
+    Week 1:
+        - Add user interface and get permissions squared away.
+        - Design the user login page.
+        - Design how a duck will be tracked
+        - add user info page.
